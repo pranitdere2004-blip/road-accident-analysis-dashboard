@@ -1,3 +1,9 @@
+> 📦 **Project Files Notice**
+>
+> Large project files (Excel dashboard, raw dataset, and PPT) are available in the **Releases** section.
+>
+> 👉 **[Click here to download all project files](../../releases/tag/v1.0)**
+
 # 🚦 Road Accident Dashboard (Excel)
 
 ## Project Overview
